@@ -15,4 +15,13 @@ body {
 	max-width: 960px;
 	margin: 100px auto;
 	padding: 10px;
+	display: grid;
+}
+
+.item {
+	background-color: steelblue;
+	color: white;
+	font-size: 20px;
+	padding: 20px;
+	border: skyblue 1px solid;
 }
