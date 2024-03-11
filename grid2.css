@@ -8,6 +8,9 @@ body {
 	font-size: 16px;
 	height: 100vh;
 	display: grid;
+	grid-template-areas:
+		'header header header' 'nav content sidebar'
+		'nav footer footer';
 }
 
 header,
@@ -19,4 +22,24 @@ main {
 	color: white;
 	padding: 20px;
 	border: skyblue 1px solid;
+}
+
+header {
+	grid-area: header;
+}
+
+footer {
+	grid-area: footer;
+}
+
+aside {
+	grid-area: sidebar;
+}
+
+nav {
+	grid-area: nav;
+}
+
+main {
+	grid-area: content;
 }
