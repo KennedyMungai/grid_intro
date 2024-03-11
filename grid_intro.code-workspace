@@ -4,5 +4,26 @@
 			"path": "."
 		}
 	],
-	"settings": {}
+	"settings": {
+		"cSpell.words": [
+			"adipisicing",
+			"amet",
+			"blanditiis",
+			"consectetur",
+			"deserunt",
+			"elit",
+			"eveniet",
+			"facilis",
+			"itaque",
+			"magnam",
+			"nemo",
+			"obcaecati",
+			"perspiciatis",
+			"repudiandae",
+			"similique",
+			"Temporibus",
+			"ullam",
+			"voluptas"
+		]
+	}
 }
